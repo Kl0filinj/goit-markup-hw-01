@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Репозиторий для первого ДЗ/ HTML+CSS/1
+https://kl0filinj.github.io/goit-markup-hw-01/
